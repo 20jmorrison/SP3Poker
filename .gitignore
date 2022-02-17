@@ -4,6 +4,7 @@
 # Other
 *.suo
 *.sqlite
+*.vs
 
 # Object files
 *.o

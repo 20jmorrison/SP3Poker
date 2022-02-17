@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jared Morrison\\OneDrive - SNHU\\Desktop\\Poker\\Poker.csproj": {}
+    "C:\\Users\\Jared Morrison\\Desktop\\SP3Repo\\Poker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jared Morrison\\OneDrive - SNHU\\Desktop\\Poker\\Poker.csproj": {
+    "C:\\Users\\Jared Morrison\\Desktop\\SP3Repo\\Poker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jared Morrison\\OneDrive - SNHU\\Desktop\\Poker\\Poker.csproj",
+        "projectUniqueName": "C:\\Users\\Jared Morrison\\Desktop\\SP3Repo\\Poker.csproj",
         "projectName": "Poker",
-        "projectPath": "C:\\Users\\Jared Morrison\\OneDrive - SNHU\\Desktop\\Poker\\Poker.csproj",
+        "projectPath": "C:\\Users\\Jared Morrison\\Desktop\\SP3Repo\\Poker.csproj",
         "packagesPath": "C:\\Users\\Jared Morrison\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jared Morrison\\OneDrive - SNHU\\Desktop\\Poker\\obj\\",
+        "outputPath": "C:\\Users\\Jared Morrison\\Desktop\\SP3Repo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jared Morrison\\AppData\\Roaming\\NuGet\\NuGet.Config",
