@@ -1,0 +1,17 @@
+C:\Users\Jared Morrison\Desktop\SP3Repo\bin\Debug\net6.0-windows\Poker.exe
+C:\Users\Jared Morrison\Desktop\SP3Repo\bin\Debug\net6.0-windows\Poker.deps.json
+C:\Users\Jared Morrison\Desktop\SP3Repo\bin\Debug\net6.0-windows\Poker.runtimeconfig.json
+C:\Users\Jared Morrison\Desktop\SP3Repo\bin\Debug\net6.0-windows\Poker.dll
+C:\Users\Jared Morrison\Desktop\SP3Repo\bin\Debug\net6.0-windows\ref\Poker.dll
+C:\Users\Jared Morrison\Desktop\SP3Repo\bin\Debug\net6.0-windows\Poker.pdb
+C:\Users\Jared Morrison\Desktop\SP3Repo\obj\Debug\net6.0-windows\Poker.csproj.AssemblyReference.cache
+C:\Users\Jared Morrison\Desktop\SP3Repo\obj\Debug\net6.0-windows\Poker.Form1.resources
+C:\Users\Jared Morrison\Desktop\SP3Repo\obj\Debug\net6.0-windows\Poker.csproj.GenerateResource.cache
+C:\Users\Jared Morrison\Desktop\SP3Repo\obj\Debug\net6.0-windows\Poker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jared Morrison\Desktop\SP3Repo\obj\Debug\net6.0-windows\Poker.AssemblyInfoInputs.cache
+C:\Users\Jared Morrison\Desktop\SP3Repo\obj\Debug\net6.0-windows\Poker.AssemblyInfo.cs
+C:\Users\Jared Morrison\Desktop\SP3Repo\obj\Debug\net6.0-windows\Poker.csproj.CoreCompileInputs.cache
+C:\Users\Jared Morrison\Desktop\SP3Repo\obj\Debug\net6.0-windows\Poker.dll
+C:\Users\Jared Morrison\Desktop\SP3Repo\obj\Debug\net6.0-windows\ref\Poker.dll
+C:\Users\Jared Morrison\Desktop\SP3Repo\obj\Debug\net6.0-windows\Poker.pdb
+C:\Users\Jared Morrison\Desktop\SP3Repo\obj\Debug\net6.0-windows\Poker.genruntimeconfig.cache

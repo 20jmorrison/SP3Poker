@@ -1,3 +1,4 @@
+using System;
 namespace Poker
 {
     public partial class Form1 : Form
@@ -6,5 +7,13 @@ namespace Poker
         {
             InitializeComponent();
         }
-    }
+
+
+        
+        
+
+        
+
+
+}
 }
