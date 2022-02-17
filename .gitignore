@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+# Other
+*.suo
+*.sqlite
+
 # Object files
 *.o
 *.ko
