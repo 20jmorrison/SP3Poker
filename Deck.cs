@@ -12,6 +12,7 @@ namespace Poker
 {
     internal class Deck
     {
+        Random rnd = new Random();
 
         string[] cardsArr = new string[52]
         {"ACE CLUB", "ACE DIAMOND", "ACE HEART", "ACE SPADE",
@@ -28,6 +29,21 @@ namespace Poker
         "QUEEN CLUB", "QUEEN DIAMOND", "QUEEN HEART", "QUEEN SPADE",
         "KING CLUB", "KING DIAMOND", "KING HEART", "KING SPADE",
         };
+
+
+        public void ShuffleCards()
+        {
+            string temp;
+            int randomNum1, randomNum2;
+            for (int i = 0; i < 100; i++)
+            {
+                randomNum1 = rnd.Next(cardsArr.Length);
+                randomNum2 = rnd.Next(cardsArr.Length);
+                temp = cardsArr[randomNum1];
+                cardsArr[randomNum1] = cardsArr[randomNum2];
+                cardsArr[randomNum2] = temp;
+            }
+        }
 
     }
 }
